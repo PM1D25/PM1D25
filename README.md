@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙
 
-Meu nome é nome sobrenome Kívia Andrade
+Meu nome é Kívia Andrade
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
